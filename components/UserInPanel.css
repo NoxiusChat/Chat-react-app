@@ -1,0 +1,36 @@
+.user{
+    border-bottom:solid;
+    border-bottom-width: 1px;
+    border-color:black;
+    width: 100%;
+}
+
+
+.mute-button{
+    position:relative;
+    left: 300px;
+}
+.form-check-input{
+    position:relative;
+    left: 290px;
+    opacity:50%;
+    cursor:pointer;
+}
+
+.form-select{
+    position:relative;
+    left:200px;
+    width:100px;
+    height:35px;
+}
+.ce-comment{
+    width: 100px;
+}
+.user-content{
+    display:flex;
+    max-width: 300px;
+
+}
+.name-class{
+    width:100px
+}
